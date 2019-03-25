@@ -1,0 +1,9 @@
+[package]
+name = "gessing_game"
+version = "0.1.0"
+authors = ["Clara Battesini <clarabattesini@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.14"
+colored = "1.7"
